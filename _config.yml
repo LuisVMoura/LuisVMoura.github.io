@@ -275,7 +275,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: ["Moura", "de Moura"]
-  first_name: ["Luis", "L.", "Luis V.", "Luís", "Luís V.", "Luís Vin{\'{\i}}cius", "Luis Vin{\'{\i}}cius"]
+  first_name: ["Luis", "L.", "Luis V.", "Luís", "Luís V."] #, "Luís Vin{\'{\i}}cius", "Luis Vin{\'{\i}}cius"]
 
   style: apa
   locale: en
