@@ -274,8 +274,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Moura, de Moura]
+  first_name: [Luis, L., Luis V., Luís, Luís V. , Luís Vinícius, Luis Vinícius]
 
   style: apa
   locale: en
