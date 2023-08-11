@@ -20,4 +20,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a qualified Medical Physicist with expertise in Radiodiagnosis and Radiological Protection, currently serving as a Medical Physicist in Nuclear Medicine and PET/CT.
+
 I am pursuing a Master's degree in Computer Science at [PUC-RS](https://www.pucrs.br/)  conducting my research at the [MALTA](/) laboratory. With hands-on experience in Artificial Intelligence applied to medical imaging, my research interests lie at the intersection of AI and medical imaging, focusing on vision-language models.
